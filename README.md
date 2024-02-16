@@ -16,6 +16,8 @@ The 10x linked read whole-genome sequence data is available at Allen Cell at thi
 ![AUTS2](images/WTC-11-10x-WGS-AUTS2-Deletion.png "AUTS2")
 
 #### Evidence from the short-read WGS Data
-We used the WTC-11 short-read WGS data for development of our tool called PYRUS (see also [https://github.com/TNTurnerLab/PYRUS](https://github.com/TNTurnerLab/PYRUS)).
+We used the WTC-11 short-read WGS data for development of our tool called PYRUS (see also [https://github.com/TNTurnerLab/PYRUS](https://github.com/TNTurnerLab/PYRUS)). The WGS data is available at Allen cell at this link: [https://open.quiltdata.com/b/allencell/tree/aics/wtc11_short_read_genome_sequence/](https://open.quiltdata.com/b/allencell/tree/aics/wtc11_short_read_genome_sequence/). By running QuicK-mer2 on the genome data, we also saw the deletion in AUTS2 and have an image of that in the PYRUS GitHub repository as shown below:
+
+![AUTS2](https://github.com/TNTurnerLab/PYRUS/blob/93309a329e268a31565e8ddbabef792b8591b968/Example_Plots/AUTS2_Sample_Directory.png)
 
 
