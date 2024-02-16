@@ -20,4 +20,5 @@ We used the WTC-11 short-read WGS data for development of our tool called PYRUS 
 
 ![AUTS2](https://github.com/TNTurnerLab/PYRUS/blob/93309a329e268a31565e8ddbabef792b8591b968/Example_Plots/AUTS2_Sample_Directory.png)
 
+The QuicK-mer2 data we generated on this WGS dataset can be found here: [https://github.com/TNTurnerLab/PYRUS/tree/main/Example_Data/WTC-11_Sample](https://github.com/TNTurnerLab/PYRUS/tree/main/Example_Data/WTC-11_Sample)
 
